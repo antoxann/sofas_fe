@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sofas_fe/static/css/main.2697fef2.css",
+    "main.js": "/sofas_fe/static/js/main.3bbb5240.js",
+    "static/js/787.16aa6ab6.chunk.js": "/sofas_fe/static/js/787.16aa6ab6.chunk.js",
+    "index.html": "/sofas_fe/index.html",
+    "main.2697fef2.css.map": "/sofas_fe/static/css/main.2697fef2.css.map",
+    "main.3bbb5240.js.map": "/sofas_fe/static/js/main.3bbb5240.js.map",
+    "787.16aa6ab6.chunk.js.map": "/sofas_fe/static/js/787.16aa6ab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2697fef2.css",
+    "static/js/main.3bbb5240.js"
+  ]
+}
